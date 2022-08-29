@@ -81,7 +81,7 @@ Do try out the electronics competitions held in other iits . Our iit (iit bhu) h
 Proteus , Orcad , EagleCAD , MATLAB , Simulink , Arduino , Xilinx Vivado , Icarus 
 
 ### By 
-Ayush Agarwal ( Nvidia ASIC intern + 7 shortlists ( google hardware , oracle sde , wells fargo sde , mastercard ai , nvidia hardware/asic , Texas instruments digital , jaguar powertrain ) )
+Ayush Agarwal ( Nvidia ASIC intern + 7 shortlists ( google hardware , oracle sde , wells fargo analyst , mastercard ai , nvidia hardware/asic , Texas instruments digital , jaguar powertrain ) )
 
 
 
