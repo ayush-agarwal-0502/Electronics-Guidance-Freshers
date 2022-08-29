@@ -75,10 +75,6 @@ https://www.youtube.com/playlist?list=PL1LYo3hxGXUHoZjbVx-UtGeNjudOIkSve
 https://www.youtube.com/playlist?list=PL1LYo3hxGXUH9sOZ4Ddl2bgtOmSoDeTWS
 
 Plus course related stuff 
-### Competitive electronics –
-Do try out the electronics competitions held in other iits . Our iit (iit bhu) has pretty good electronics culture , since Ive observed that other iits do not have a separate competitions for all different domains of electronics ) Most competitions focus on digisim and continuum level material , and sometimes Arduino hackathons are held which are pretty easy . 
-### Toolkit u might wanna try as a student – 
-Proteus , Orcad , EagleCAD , MATLAB , Simulink , Arduino , Xilinx Vivado , Icarus 
 
 ### By 
 Ayush Agarwal ( Nvidia ASIC intern + 7 shortlists ( google hardware , oracle sde , wells fargo analyst , mastercard ai , nvidia hardware/asic , Texas instruments digital , jaguar powertrain ) )
