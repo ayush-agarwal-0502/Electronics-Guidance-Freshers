@@ -62,7 +62,16 @@ Do try building stuff , gives you basic understanding of mechatronics and IoT co
 https://www.udemy.com/course/pcb-design-with-eagle/?ranMID=39197&ranEAID=rl2xnKiLcHs&ranSiteID=rl2xnKiLcHs-u2t9V5T8cnE3KlkdE540Mg&LSNPUBID=rl2xnKiLcHs&utm_source=aff-campaign&utm_medium=udemyads
 
 Amit Rana Udemy course Eaglecad one 
+
+https://www.udemy.com/course/vlsi-academy-physical-design-flow/
+
+For backend of electronics , kunal ghosh sir lectures 
+
+and slides made by me from the digisim event 
+
 Just watch the free part and learn the rest from youtube . Hope that our college develops a culture of pcb design too and it becomes an event in udyam 
+
+PS - It did :) event added to digisim by me as coordinator 
 ### Power electronics (will be needed if u apply for power electronics profile )  -
 Watch simulim event workshops , which is a part of prastuti , eee dept fest iit bhu , their workshops are not available on youtube so cant share link 
 ### Digital comms ( not needed for tests ) – 
